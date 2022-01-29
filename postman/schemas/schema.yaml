@@ -1,4 +1,4 @@
-openapi: 3.0.9
+openapi: 3.0.6
 info:
   version: 'v1.0'
   title: 'connect_to_manan_prod_2'
